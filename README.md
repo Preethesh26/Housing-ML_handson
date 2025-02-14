@@ -35,5 +35,11 @@ Handwritten digit recognition is a fundamental problem in computer vision and pa
 
 ## 💡 Contributing
 Contributions are welcome! Feel free to open issues and pull requests.  
+---
+
+
+## 🔗 **Connect With Me**  
+- 💼 **GitHub:** [Preethesh26](https://github.com/Preethesh26)  
+- 👔 **LinkedIn:** [Preethesh26](https://www.linkedin.com/in/Preethesh26/)
 
 
